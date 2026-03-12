@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(59, 90, 255);
+}
+
+h2 {
+    color: green;
+
+}
+
+p {
+    color: slateblue;
+
+}
+
+button {
+
+    color: brown;
+    background-color: lightcyan;
+}
+
+body {
+    background-color: darkorange;
+}
