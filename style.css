@@ -1,14 +1,22 @@
 h1 {
     color: rgb(59, 90, 255);
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Bazooka', cursive;
 }
 
 h2 {
     color: green;
-
+    text-align: right;
+    font-weight: 700;
+    font-family: 'Bazooka', cursive;
 }
+
+
 
 p {
     color: slateblue;
+    text-align: center;
 
 }
 
