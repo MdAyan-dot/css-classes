@@ -24,8 +24,14 @@ button {
 
     color: brown;
     background-color: lightcyan;
+    display: block;
 }
 
 body {
     background-color: darkorange;
+}
+
+div {
+    background-color: rgb(86, 134, 42);
+    display: inline-block;
 }
